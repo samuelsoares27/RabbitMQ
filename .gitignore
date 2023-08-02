@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs/RabbitMQProductApi/v17/.futdcache.v2
+/.vs/RabbitMQProductApi/FileContentIndex/0d0ab3eb-686e-4365-905b-d625689febda.vsidx
+/.vs/ProjectEvaluation/rabbitmqproductapi.metadata.v7.bin
